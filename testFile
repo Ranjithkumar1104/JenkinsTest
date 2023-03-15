@@ -1,0 +1,4 @@
+function testCall() {
+  console.log("Being called")
+}
+testCall();
